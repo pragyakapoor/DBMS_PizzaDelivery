@@ -188,6 +188,8 @@ values(1, 'Anirudh', 'Sector 72', 9827364738 , 8, 4),
 (3, 'Aalim', 'Sector 31', 9234534343 , 4, 3),
 (4, 'Parth', 'Sector 92', 9234564738 , 1, 1),
 (5, 'Dishad', 'Sector 72', 9823433457 , 2, 4)
+(6, 'Aditya', 'Sector 41', 9823433452 , 3, 5)                                                       
+                                                        
 
 insert into Branches(bran_no, bran_name, region, phone, no_of_employees, manager_no, manager, bran_expenditure, tot_revenue)
 values(1, 'MOI', 'Noida', 0120424446, 30, 6, 'Ramesh', 150000, 175000),
