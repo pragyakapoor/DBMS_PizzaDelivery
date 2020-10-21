@@ -188,6 +188,8 @@ values(1, 'Anirudh', 'Sector 72', 9827364738 , 8, 4),
 (3, 'Aalim', 'Sector 31', 9234534343 , 4, 3),
 (4, 'Parth', 'Sector 92', 9234564738 , 1, 1),
 (5, 'Dishad', 'Sector 72', 9823433457 , 2, 4)
+(6, 'Aditya', 'Sector 41', 9823433452 , 3, 5)                                                       
+                                                        
 
 insert into Branches(bran_no, bran_name, region, phone, no_of_employees, manager_no, manager, bran_expenditure, tot_revenue)
 values(1, 'MOI', 'Noida', 0120424446, 30, 6, 'Ramesh', 150000, 175000),
@@ -195,6 +197,7 @@ values(1, 'MOI', 'Noida', 0120424446, 30, 6, 'Ramesh', 150000, 175000),
 (3, 'Hudco', 'Delhi', 0112342444, 40, 15, 'Siddharth', 200000, 250000),
 (4, 'CP', 'Delhi', 0112356246, 30, 17, 'Sachin', 75000, 90000),
 (5, 'Cyber City', 'Gurgaon', 0127728767, 20, 21, 'Aman', 40000, 50000)
+(6, 'tea shop','Noida',01202500832,21,21'Ali',50000,40000)                                                        
  
 insert into Employees(bn1, dn1, emp_no, emp_name, emp_address, emp_email, emp_salary, emp_phone, gender, recruit_date)
 values(1,2,6,'Ramesh', 'Sector 21', 'Ramesh@gmail.com', 15000, 9263748576, 'Male', '2013-10-10'),
